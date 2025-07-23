@@ -1,0 +1,7 @@
+[2025-05-02 03:58:54] Added directory: source_dir_1 -> backup/source_dir_1 
+[2025-05-02 03:58:54] Monitoring started for source_dir_1
+[2025-05-02 03:59:17] Command shutdown
+[2025-05-02 03:59:17] Shutting down manager...
+[2025-05-02 03:59:17] Processing remaining queued tasks.
+[2025-05-02 03:59:17] Waiting for all active workers to finish.
+[2025-05-02 03:59:17] Manager shutdown complete.
